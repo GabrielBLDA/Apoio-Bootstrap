@@ -1,5 +1,5 @@
 # Apoio-Bootstrap
-Trata-se de uma apostila/apoio geral sobre a maioria das classes presentes no Bootstrap e de como aplicar suas respectivas funções de forma correta e responsiva em um site HTML
+
 <br><br>
 # <div align="center"> Notificações: </div>
 ![1](https://user-images.githubusercontent.com/86329011/205179833-157d324a-e0f4-4113-9e7e-258fba259b9d.PNG) <br><br><br><br>
